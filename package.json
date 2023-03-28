@@ -1,0 +1,25 @@
+{
+  "name": "testy",
+  "version": "1.0.0",
+  "description": "CC testy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelUberti/testy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelUberti/testy/issues"
+  },
+  "homepage": "https://github.com/RachelUberti/testy#readme",
+  "dependencies": {
+    "@bookshop/browser": "3.4.1",
+    "@bookshop/generate": "3.4.1",
+    "@bookshop/hugo-engine": "3.4.1"
+  }
+}
